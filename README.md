@@ -5,7 +5,7 @@ The code is run and tested with Rust version 1.33.0-nightly on MacOS. Please run
 * `$ cd target/debug`
 * `$ ./tenx_technical_exercise`
 
-[IMAGE](https://user-images.githubusercontent.com/156037/53299445-3307f780-3875-11e9-8286-47bc88ee3529.png)
+![IMAGE](https://user-images.githubusercontent.com/156037/53299445-3307f780-3875-11e9-8286-47bc88ee3529.png)
 
 I am not familiar with the algorithm mentioned, and I observed that the program went into endless loop in path finding for outlier case like below. At the moment I disply error message to user when such data is entered.
 
